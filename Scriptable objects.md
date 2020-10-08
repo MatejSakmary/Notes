@@ -1,0 +1,1 @@
+V [[Unity]] je možnost vytvořit scriptable object, který je vhodný používat pro ukládánání dat, které chci sdílet mezi více tříd nebo skriptů
